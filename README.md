@@ -23,12 +23,15 @@ Let’s break it down:
 ## 🎉 **Fun Facts About Me**  
 - I believe life is like a **choose-your-own-adventure book** 📖. Sure, some parts are pre-written, but I’m here to make the exciting choices!  
 - Self-confidence? Still a work-in-progress. But hey, progress is progress, right?  
-- I prioritize my friends so much, it’s like a second full-time job! 💼❤️  
+- I prioritize my friends so much, it’s like a second full-time job! 💼❤️
+- I love to be out doors go biking, running, talking a walk, etc.🌲🌳🌴
+- I am well organized (life gets messy sometimes but then fix it back up 🤗).
 
 ---
 
 ### Let’s Connect!  
 If you’ve made it this far, you’re awesome. 😊 Whether you want to chat, ride bikes, or just vibe—feel free to reach out!  
+Gmail: aryangupta.shivan@gmail.com
 
 <!---
 Aryan98681/Aryan98681 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
