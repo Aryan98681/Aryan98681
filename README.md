@@ -1,6 +1,6 @@
 # 🚀 Aryan Gupta  
 
-Hey there! 👋 Welcome to my little corner of the universe. I’m **Aryan Gupta**, a 16-year-old living life (and riding bikes) in Jacksonville! 🚴‍♂️  
+Hey there! 👋 Welcome to my little corner of the universe. I’m **Aryan Gupta**, a 16-year-old living life (and riding bikes) in the beautiful state of Florida, United States! 🚴‍♂️  
 
 ---
 
