@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Aryan Gupta
 
-I am a high school student based in **Florida, USA**. My current focus is building a strong foundation to pursue a degree in **Cybersecurity** at a top-tier college.
+I am a currently a Junior in High School based in **Florida, USA**. My current focus is building a strong foundation to pursue a degree in **Cybersecurity** at a top-tier college.
 
 ---
 
