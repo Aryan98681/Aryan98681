@@ -32,8 +32,8 @@ I am a currently a Junior in High School based in **Florida, USA**. My current f
 **Currently learning:**
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
-
 ---
 
 ### 🏎️ Formula 1 & Racing
