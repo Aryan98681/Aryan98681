@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Aryan Gupta
 
-I am a high school student based in **Florida, USA**, dedicated to mastering the world of technology. My current focus is building a strong foundation to pursue a degree in **Cybersecurity** at a top-tier college.
+I am a high school student based in **Florida, USA**. My current focus is building a strong foundation to pursue a degree in **Cybersecurity** at a top-tier college.
 
 ---
 
@@ -37,18 +37,16 @@ I am a high school student based in **Florida, USA**, dedicated to mastering the
 ---
 
 ### 🏎️ Formula 1 & Racing
-Huge fan of the pinnacle of motorsport. Catch me watching the Grand Prix every weekend!
+Huge fan of the pinnacle of motorsport. Forza Ferrari! 🐎
 * 🏎️ **Favorite Team:** [Scuderia Ferrari](https://www.ferrari.com/en-EN/formula1)
 * 🏁 **Favorite Driver:** Lewis Hamilton #44
-* <img src="https://img.shields.io/badge/Ferrari-EF3340?style=for-the-badge&logo=ferrari&logoColor=white" /> <img src="https://img.shields.io/badge/LH44-00D2BE?style=for-the-badge&logo=mercedes-benz&logoColor=white" />
+* <img src="https://img.shields.io/badge/Ferrari-EF3340?style=for-the-badge&logo=ferrari&logoColor=white" /> <img src="https://img.shields.io/badge/LH44-EF3340?style=for-the-badge&logo=ferrari&logoColor=white" />
 
 ---
-
 ### 📸 Fun Things & Interests!
-* 🚲 **Cycling:** Exploring the beautiful Florida trails on my bike.
+* 🚲 **Cycling:** Exploring the beautiful Florida trails/beaches on my bike.
 * 📷 **Photography:** Capturing moments and working on my visual storytelling.
 * 🌍 **Tech News:** Staying updated on global innovations and gadgets.
 * 👥 **Community:** Spending quality time with my friends and family.
 
 ---
-
