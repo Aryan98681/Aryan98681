@@ -16,7 +16,8 @@ I am a currently a Junior in High School based in **Florida, USA**. My current f
 * ✅ **Database Management (SQL)**
 * ✅ **Java Development**
 * ✅ **Computational Thinking**
-
+* ✅ **CyberSecurity**
+  
 ---
 
 ### 💻 Technical Skills
