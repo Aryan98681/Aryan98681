@@ -1,13 +1,13 @@
 # Hi there 👋 I'm Aryan Gupta
 
-I am a currently a Junior in High School based in **Florida, USA**. My current focus is building a strong foundation to pursue a degree in **Cybersecurity** at a top-tier college.
+I am a currently a Senior in High School based in **Florida, USA**. My current focus is building a strong foundation to pursue a degree in **Cybersecurity** at a top-tier college.
 
 ---
 
 ### 🎓 Profile & Leadership
-* 👨‍💻 **Tech Club Co-President:** Leading and collaborating on innovative student projects.
+* 👨‍💻 **Tech Club Co-President:** Leading and collaborating on innovative student projects in my school.
 * 📚 **Future Aspirations:** Aiming for a career in Cybersecurity to protect the digital frontier.
-* 🛠️ **Project Builder:** I enjoy developing coding projects that solve real-world problems.
+* 🛠️ **Project Builder:** I enjoy developing coding projects that solve real-world problems. I have also help build a server cluster for my IT Academy.
 
 ---
 
